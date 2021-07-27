@@ -1,7 +1,7 @@
 package chapter12;
 
 public class Employee {
-    public static int serialNum = 1000;
+    private static int serialNum = 1000;
 
     private int employeeId;
     private String employeeName;
@@ -9,6 +9,11 @@ public class Employee {
     public Employee(){
         serialNum++;
         employeeId = serialNum;
+    }
+
+    // 외부에서 값을 바꾸면 안되므로 set만(read-only)
+    public static int getSerialNum() {
+        return serialNum;
     }
 
     public int getEmployeeId() {
