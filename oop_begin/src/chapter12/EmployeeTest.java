@@ -5,7 +5,7 @@ public class EmployeeTest {
         Employee employeeHong = new Employee();
         employeeHong.setEmployeeName("홍길동");
 
-        System.out.println(employeeHong.getSerialNum());
+        //System.out.println(employeeHong.getSerialNum());
 
         Employee employeeKim = new Employee();
         employeeKim.setEmployeeName("김길동");
