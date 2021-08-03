@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09183e-8898-4da7-874c-49e5a78c11f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/chapter3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../인턴/kpx-dr-crawler" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -41,13 +40,26 @@
       <recent name="C:\Users\jbg\Desktop\java_study\oop_mid\src\chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalTest">
+  <component name="RunManager" selected="Application.ComputerTest">
     <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.AnimalTest" />
       <module name="oop_mid" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.ComputerTest" />
+      <module name="oop_mid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComputerTest" />
         <item itemvalue="Application.AnimalTest" />
         <item itemvalue="Application.CustomerTest (2)" />
         <item itemvalue="Application.CustomerTest (1)" />
@@ -113,7 +126,8 @@
       <updated>1627399134342</updated>
       <workItem from="1627399135734" duration="3000" />
       <workItem from="1627826296594" duration="3178000" />
-      <workItem from="1627859707144" duration="5860000" />
+      <workItem from="1627859707144" duration="8508000" />
+      <workItem from="1627951704071" duration="1715000" />
     </task>
     <servers />
   </component>
