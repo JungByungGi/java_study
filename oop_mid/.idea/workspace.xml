@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09183e-8898-4da7-874c-49e5a78c11f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter7/domain/userinfo/UserInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,14 +39,17 @@
       <recent name="C:\Users\jbg\Desktop\java_study\oop_mid\src\chapter3" />
       <recent name="C:\Users\jbg\Desktop\java_study\oop_mid\src\chapter2" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter8" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.UserInfoClient">
-    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.AnimalTest" />
+  <component name="RunManager" selected="Application.CalcTest (1)">
+    <configuration name="CalcTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.CalcTest" />
       <module name="oop_mid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3.*" />
+          <option name="PATTERN" value="chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalcTest (1)" />
         <item itemvalue="Application.UserInfoClient" />
         <item itemvalue="Application.CalcTest" />
         <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.ComputerTest" />
-        <item itemvalue="Application.AnimalTest" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +131,7 @@
       <workItem from="1627826296594" duration="3178000" />
       <workItem from="1627859707144" duration="8508000" />
       <workItem from="1627951704071" duration="4787000" />
-      <workItem from="1628158783409" duration="1527000" />
+      <workItem from="1628158783409" duration="2443000" />
     </task>
     <servers />
   </component>
