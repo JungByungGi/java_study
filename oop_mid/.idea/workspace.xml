@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea09183e-8898-4da7-874c-49e5a78c11f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter7/domain/userinfo/UserInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
       <recent name="C:\Users\jbg\Desktop\java_study\oop_mid\src\chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalcTest">
+  <component name="RunManager" selected="Application.UserInfoClient">
     <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.AnimalTest" />
       <module name="oop_mid" />
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.CustomerTest" />
+    <configuration name="UserInfoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.web.userinfo.UserInfoClient" />
       <module name="oop_mid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3.*" />
+          <option name="PATTERN" value="chapter7.web.userinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserInfoClient" />
         <item itemvalue="Application.CalcTest" />
         <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.ComputerTest" />
         <item itemvalue="Application.AnimalTest" />
-        <item itemvalue="Application.CustomerTest (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +129,7 @@
       <workItem from="1627826296594" duration="3178000" />
       <workItem from="1627859707144" duration="8508000" />
       <workItem from="1627951704071" duration="4787000" />
+      <workItem from="1628158783409" duration="1527000" />
     </task>
     <servers />
   </component>
@@ -139,7 +141,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
