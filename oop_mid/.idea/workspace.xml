@@ -40,13 +40,26 @@
       <recent name="C:\Users\jbg\Desktop\java_study\oop_mid\src\chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarTest">
+  <component name="RunManager" selected="Application.CalcTest">
     <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.AnimalTest" />
       <module name="oop_mid" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.CalcTest" />
+      <module name="oop_mid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,19 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.CustomerTest" />
-      <module name="oop_mid" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CustomerTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.CustomerTest" />
       <module name="oop_mid" />
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalcTest" />
         <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.ComputerTest" />
         <item itemvalue="Application.AnimalTest" />
         <item itemvalue="Application.CustomerTest (2)" />
-        <item itemvalue="Application.CustomerTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +127,7 @@
       <workItem from="1627399135734" duration="3000" />
       <workItem from="1627826296594" duration="3178000" />
       <workItem from="1627859707144" duration="8508000" />
-      <workItem from="1627951704071" duration="2554000" />
+      <workItem from="1627951704071" duration="4787000" />
     </task>
     <servers />
   </component>
