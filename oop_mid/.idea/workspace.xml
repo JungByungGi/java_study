@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea09183e-8898-4da7-874c-49e5a78c11f7" name="Default Changelist" comment="" />
+    <list default="true" id="ea09183e-8898-4da7-874c-49e5a78c11f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oop_useful_class" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../인턴/kpx-dr-crawler" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -132,7 +134,7 @@
       <workItem from="1627951704071" duration="4787000" />
       <workItem from="1628158783409" duration="2637000" />
       <workItem from="1628213727775" duration="4861000" />
-      <workItem from="1628393907959" duration="920000" />
+      <workItem from="1628393907959" duration="592000" />
     </task>
     <servers />
   </component>
