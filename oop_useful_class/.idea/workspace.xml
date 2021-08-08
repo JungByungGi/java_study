@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74ff1723-05ae-493f-981c-46f56dae4ae0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +32,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36971486" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.EqualsTest">
+  <component name="RunManager" selected="Application.StringBuilderTest">
     <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.BookTest" />
       <module name="oop_useful_class" />
@@ -59,8 +64,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.StringBuilderTest" />
+      <module name="oop_useful_class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.StringTest" />
+      <module name="oop_useful_class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTextBlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.StringTextBlockTest" />
+      <module name="oop_useful_class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderTest" />
+        <item itemvalue="Application.StringTextBlockTest" />
+        <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.EqualsTest" />
         <item itemvalue="Application.BookTest" />
       </list>
@@ -76,7 +123,8 @@
       <updated>1628397461069</updated>
       <workItem from="1628397462338" duration="4000" />
       <workItem from="1628397487311" duration="13000" />
-      <workItem from="1628397561228" duration="3290000" />
+      <workItem from="1628397561228" duration="5826000" />
+      <workItem from="1628403562832" duration="40000" />
     </task>
     <servers />
   </component>
@@ -93,5 +141,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
