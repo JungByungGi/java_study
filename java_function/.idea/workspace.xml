@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c36c4a60-9b30-4880-bd08-a39022b8f1b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/MyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/MyNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.MyNumberTest">
+  <component name="RunManager" selected="Application.StringConcatTest">
     <configuration name="AddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.AddTest" />
       <module name="java_function" />
@@ -80,7 +79,20 @@
       <module name="java_function" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3.*" />
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringConcatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.StringConcatTest" />
+      <module name="java_function" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringConcatTest" />
         <item itemvalue="Application.MyNumberTest" />
         <item itemvalue="Application.AddTest" />
         <item itemvalue="Application.AnonymousInnerTest" />
@@ -106,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628571769417</updated>
       <workItem from="1628571770751" duration="3000" />
-      <workItem from="1628571859718" duration="5848000" />
+      <workItem from="1628571859718" duration="6865000" />
     </task>
     <servers />
   </component>
